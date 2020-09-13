@@ -1,0 +1,2 @@
+# 10xv2_10xv3_barcodes
+whitelist barcodes for 10xv2 and 10xv3 chemistry
